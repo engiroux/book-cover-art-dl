@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 filename,Cover Art,,
 title,Title	,,
-source_creator,Author	,
+source_creator,Author	,,
 source_creator_origin, Author Birthplace,,
 source_audience,Audience	,,
 source_genre,Genre	,,
