@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/engiroux/book-cover-art-dl
+source-code: https://docs.google.com/spreadsheets/d/e/2PACX-1vSUYTTdGgf-9AHOU0CZhtUDdNp7nhk6nridTq4hXzZiuVUVP64jAuSU73AT-Mc3cmiE4R_Z9JcLAZ9i/pub?output=csv
 
 ##########
 # SITE SETTINGS
