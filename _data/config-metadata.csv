@@ -21,7 +21,7 @@ cover_description,Description	,,
 publisher_name,Publisher	,true,
 publisher_location,Publisher Location	,,
 rights_holder,Rights	,,
-publisher_link,Publisher Site,,
+publisher_link,Publisher Site,,true
 
 
 
