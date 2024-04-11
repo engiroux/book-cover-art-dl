@@ -1,4 +1,5 @@
 field,display_name,btn,hidden,sort_name
+title,Title,..
 publication_date, Pub. Date,,,Publication Date
 edition_date,Ed. Date,,,Edition Date
 source_genre,Genre,,,Genre
