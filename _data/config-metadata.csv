@@ -20,7 +20,7 @@ cover_type,Type	,true,
 cover_style,Style	,true,
 cover_color, Color,true,
 cover_description,Description	,,
-publisher_name,Publisher,,true
+publisher_name,Publisher,true,
 publisher_location,Publisher Location	,,
 rights_holder,Rights	,,
 publisher_link,Publisher/Purchasing Site,,true
