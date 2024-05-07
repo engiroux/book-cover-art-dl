@@ -6,5 +6,5 @@ cover_description,true,true
 source_subject,true,true
 cover_subject,true,true
 location,true,false
-color,true,true
+color,true,false
 cover_style,true,true
