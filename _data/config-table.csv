@@ -1,7 +1,9 @@
 field,display_name
 title,Title
+source_creator, Author
+cover_artist, Cover Artist
 publication_date,Publication Date
 edition_date,Edition Date
 source_genre,Genre
 source_subjects,Book Subjects
-cover_subjects, Cover Subjects
+
