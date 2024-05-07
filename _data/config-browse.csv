@@ -3,5 +3,6 @@ title,Title,,,
 publication_date, Pub. Date,,,Publication Date
 edition_date,Ed. Date,,,Edition Date
 source_genre,Genre,true,,Genre
-source_subject, Book Subject, true, 
-cover_subject, Cover Subject, true, 
+source_subject, Book Subject, true, ,
+cover_subject, Cover Subject, true, ,
+cover_color, Color, true, ,
