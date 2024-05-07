@@ -19,7 +19,7 @@ cover_designer,Cover Designer	,,false
 cover_designer_origin,Cover Designer Birthplace	,true,
 cover_type,Type	,true,
 cover_style,Style	,true,
-cover_subject, Cover Subjects,true,
+cover_subjects, Cover Subjects,true,
 cover_color, Color,true,
 cover_description,Description	,,
 publisher_name,Publisher,true,
