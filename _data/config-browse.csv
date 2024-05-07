@@ -6,3 +6,4 @@ source_genre,Genre,true,,Genre
 source_subject, Book Subject, true, ,
 cover_subject, Cover Subject, true, ,
 cover_color, Color, true, ,
+cover_style, Style, true, ,
