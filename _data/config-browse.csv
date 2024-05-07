@@ -7,4 +7,4 @@ source_subjects, Book Subject, true, ,
 cover_subjects, Cover Subject, true, ,
 cover_color, Color, true, ,
 cover_style, Style, true, ,
-source_creator,Author,true,,Author
+source_creator,Author,true,,
