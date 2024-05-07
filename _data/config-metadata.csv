@@ -15,11 +15,11 @@ measurements,measurements	,,
 source_identifier, ISBN	,,
 cover_artist,Cover Artist	,true,
 cover_artist_origin, Artist Birthplace	,true,
-cover_designer,Cover Designer	,,true
+cover_designer,Cover Designer	,,false
 cover_designer_origin,Cover Designer Birthplace	,true,
 cover_type,Type	,true,
 cover_style,Style	,true,
-cover_subject, Cover Subjects,tue,
+cover_subject, Cover Subjects,true,
 cover_color, Color,true,
 cover_description,Description	,,
 publisher_name,Publisher,true,
