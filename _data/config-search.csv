@@ -3,8 +3,8 @@ title,true,true
 date,true,true
 source_creator,true,false
 cover_description,true,true
-source_subjects,true,true
-cover_subjects,true,true
+source_subjects,true,false
+cover_subjects,true,false
 location,true,false
 color,true,false
 cover_style,true,true
