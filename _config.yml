@@ -31,10 +31,10 @@ author: Celina, Emily, and Shannon
 
 ##########
 # COLLECTION SETTINGS
-metadata: book_cover_art_dl
+metadata: book_cover_metadata_image_files
 # Set the metadata for your collection 
 # This will be the full URL to your CSV file or relative path + filename of CSV in this repository 
-relative path: assets/2025Book_Cover_Metadata.csv
+relative path: assets/book_cover_metadata_image_files.csv
 published google sheet: https://docs.google.com/spreadsheets/d/e/2PACX-1vRBpzZlLQx3y5NEi9yQTmiDa2crLnqMAWAoA3_wsU2LJNrZ6p1RLN_RmwoehD_8xLZOO6NNXKrJUC_s/pub?output=csv
 # GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
 metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vRBpzZlLQx3y5NEi9yQTmiDa2crLnqMAWAoA3_wsU2LJNrZ6p1RLN_RmwoehD_8xLZOO6NNXKrJUC_s/pub?output=csv
